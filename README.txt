@@ -56,7 +56,7 @@ We welcome contributions! Please follow our guidelines for contributing at [Nate
 
 == Changelog ==
 = 1.0.3 =
-- Restructured directory
+- Restructured directory.
 = 1.0.2 =
 - Added important links to the plugin page listing and settings page.
 - Brand/images update.
